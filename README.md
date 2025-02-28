@@ -14,7 +14,7 @@
         <li><a href="#bonus-offers">Exclusive Bonus Offers</a></li>
         <li><a href="#crypto-analysis">Real-World Crypto Casino Analysis</a></li>
         <li><a href="#jackbit">Jackbit: Ultimate Crypto Casino Experience</a></li>
-        <li><a href="#7bit">7Bit Casino: Best for Game Variety</a></li>
+        <li><a href="#7bit">7Bit: Best for Game Variety</a></li>
         <li><a href="#winna">Winna: VIP Crypto Experience</a></li>
         <li><a href="#heybets">HeyBets: Provably Fair Pioneer</a></li>
         <li><a href="#stake">Stake: Sports + Casino Integration</a></li>
