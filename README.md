@@ -45,7 +45,7 @@
     <tbody>
         <tr>
             <td>1</td>
-            <td>Jackbit</td>
+            <td><a href="https://gamblegit.com/crypto-sites/jackbit" target="_blank">Jackbit</a></td>
             <td>5 BTC + 200 Free Spins</td>
             <td>BTC, ETH, LTC, DOGE, XRP, USDT</td>
             <td>Instant Withdrawals</td>
@@ -53,7 +53,7 @@
         </tr>
         <tr>
             <td>2</td>
-            <td>7Bit Casino</td>
+            <td><a href="https://gamblegit.com/crypto-sites/7bit" target="_blank">7Bit Casino</a></td>
             <td>7 BTC + 400 Free Spins</td>
             <td>BTC, ETH, BCH, LTC, DOGE, USDT</td>
             <td>Massive Game Library</td>
@@ -61,7 +61,7 @@
         </tr>
         <tr>
             <td>3</td>
-            <td>Winna</td>
+            <td><a href="https://gamblegit.com/crypto-sites/winna" target="_blank">Winna</a></td>
             <td>4 BTC + 300 Free Spins</td>
             <td>BTC, ETH, USDT, SOL, BNB</td>
             <td>Best VIP Program</td>
@@ -69,7 +69,7 @@
         </tr>
         <tr>
             <td>4</td>
-            <td>HeyBets</td>
+            <td><a href="https://gamblegit.com/crypto-sites/heybets" target="_blank">HeyBets</a></td>
             <td>6 BTC + 250 Free Spins</td>
             <td>BTC, ETH, LTC, USDT, TRX</td>
             <td>Top Provably Fair Games</td>
@@ -77,7 +77,7 @@
         </tr>
         <tr>
             <td>5</td>
-            <td>Stake</td>
+            <td><a href="https://gamblegit.com/crypto-sites/stake" target="_blank">Stake</a></td>
             <td>200% up to $2,000</td>
             <td>BTC, ETH, LTC, XRP, DOGE, BCH</td>
             <td>Sports Betting Integration</td>
