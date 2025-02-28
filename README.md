@@ -53,7 +53,7 @@
         </tr>
         <tr>
             <td>2</td>
-            <td><a href="https://gamblegit.com/crypto-sites/7bit" target="_blank">7Bit Casino</a></td>
+            <td><a href="https://gamblegit.com/crypto-sites/7bit" target="_blank">7Bit</a></td>
             <td>7 BTC + 400 Free Spins</td>
             <td>BTC, ETH, BCH, LTC, DOGE, USDT</td>
             <td>Massive Game Library</td>
